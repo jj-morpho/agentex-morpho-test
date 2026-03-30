@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "morpho": {
+      "type": "url",
+      "url": "https://morpho-mcp.up.railway.app/mcp"
+    }
+  }
+}
